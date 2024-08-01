@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.132e1796.css",
+    "main.js": "/static/js/main.59d59dc3.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portfoliopic.png": "/static/media/portfoliopic.2523f2a07af59755b63a.png",
+    "static/media/FASEEM.pdf": "/static/media/FASEEM.98c2b73fd996522f91f2.pdf",
+    "static/media/github.png": "/static/media/github.345dc4a21070f9083ca7.png",
+    "static/media/guvi.png": "/static/media/guvi.f3f05cbdfe2f499ab5ad.png",
+    "static/media/pre.svg": "/static/media/pre.e4c81c26304bc309eb55.svg",
+    "static/media/h3.jpg": "/static/media/h3.dc52d5d40a40b13154b0.jpg",
+    "static/media/coursera.png": "/static/media/coursera.942ba15faef87a3731ae.png",
+    "index.html": "/index.html",
+    "main.132e1796.css.map": "/static/css/main.132e1796.css.map",
+    "main.59d59dc3.js.map": "/static/js/main.59d59dc3.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132e1796.css",
+    "static/js/main.59d59dc3.js"
+  ]
+}
