@@ -363,7 +363,7 @@ export default function ProjectPage() {
                                   </a>
                                   <a
                                     href={
-                                      "https://react-auth0-login.netlify.app"
+                                      "https://faseem-ahmed.vercel.app"
                                     }
                                     target="_blank"
                                     rel="noreferrer"
