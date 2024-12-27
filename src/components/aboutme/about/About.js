@@ -61,7 +61,7 @@ const About = () => {
                 <br />
                 In my leisure time, I enjoy learning new technologies and &nbsp;
                 <b className="purple">
-                  building new web technologies and also post tech content in my Linkedin page{" "}
+                  building new web technologies and also post tech content in my Linkedin page.{" "}
                 </b>
               </p>
             </Fade>

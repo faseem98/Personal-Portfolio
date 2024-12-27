@@ -55,7 +55,7 @@ function ExperienceJourney() {
           icon={<PersonIcon />}
         >
           <h5 className="vertical-timeline-element-title">
-            TCS
+            TATA CONSULTANCY SERVICES(TCS)
           </h5>
           <h6 className="vertical-timeline-element-subtitle mt-2">
             Frontend Engineer
