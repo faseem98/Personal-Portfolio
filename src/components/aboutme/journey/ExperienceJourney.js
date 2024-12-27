@@ -47,6 +47,28 @@ function ExperienceJourney() {
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          contentArrowStyle={{ borderLeft: "7px solid  rgb(78 22 112)" }}
+          date="DEC 2024 - Till Date"
+          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          icon={<PersonIcon />}
+        >
+          <h5 className="vertical-timeline-element-title">
+            TCS
+          </h5>
+          <h6 className="vertical-timeline-element-subtitle mt-2">
+            Frontend Engineer
+          </h6>
+          <p>• Design and implement advanced UI features and interactive components using React and modern JavaScript (ES6+).</p>
+          <p>• Work closely with UI/UX designers, backend developers, and product managers to ensure that application features meet business and user needs.</p>
+          <p>• Integrate and consume RESTful and GraphQL APIs for dynamic data rendering and interactive content.</p>
+          <p>• Troubleshoot and resolve frontend bugs, ensuring smooth user experiences and high-quality application delivery.</p>
+          <p>• Maintain clear and comprehensive documentation for code, components, and processes to assist other developers and stakeholders.</p>
+        </VerticalTimelineElement>
+
+
+        <VerticalTimelineElement
           iconStyle={{ background: "#fbd9ad", color: "rgb(78 22 112)" }}
           icon={<StarIcon />}
         />
