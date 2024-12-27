@@ -31,8 +31,8 @@ const About = () => {
               <p className="home-about-body">
                 My name is <b className="purple">Faseem Ahmed </b>
                 and I am currently working as a{" "}
-                <b className="purple">Frontend Developer </b>
-                in <b className="purple">Capgemini </b>
+                <b className="purple">Frontend Engineer </b>
+                in <b className="purple">Tata Consultancy Services(TCS) </b>
                 in Chennai, India.
                 <br />
                 <br />I hold an engineering degree in{" "}
@@ -47,7 +47,7 @@ const About = () => {
                 I'm also proficient in programming languages like &nbsp;
                 <b className="purple">
                   {" "}
-                  HTML, CSS, JavaScript, TypeScript, Java, C++, MySQL.{" "}
+                  JavaScript, TypeScript, HTML, CSS, Java, C++, MySQL.{" "}
                 </b>
                 <br />
                 <br />
@@ -61,7 +61,7 @@ const About = () => {
                 <br />
                 In my leisure time, I enjoy learning new technologies and &nbsp;
                 <b className="purple">
-                  building new web technologies and products.{" "}
+                  building new web technologies and also post tech content in my Linkedin page{" "}
                 </b>
               </p>
             </Fade>
