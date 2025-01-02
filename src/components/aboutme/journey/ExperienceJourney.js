@@ -29,7 +29,7 @@ function ExperienceJourney() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderLeft: "7px solid  rgb(78 22 112)" }}
-          date="2021 - Till Date"
+          date="2021 - DEC 2024"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<PersonIcon />}
         >
