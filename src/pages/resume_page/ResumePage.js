@@ -10,7 +10,7 @@ import React, { useState, useEffect } from "react";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/faseem98/Personal-Portfolio/main/src/assets/FASEEM.pdf";
+  "https://raw.githubusercontent.com/faseem98/Personal-Portfolio/main/src/assets/FaseemResume.pdf";
 
 
 function Resume() {
